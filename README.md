@@ -10,7 +10,7 @@ The goal of *sidrar* is to provide direct access to the data of IBGE's (Brazilia
 Update
 ------------
 
-This repo contains an updated version of this package in relation to the CRAN version, which fixed an error when metrics are present in the description of the variables. Install with:
+This repo contains an updated version of this package in relation to the CRAN version, which fixes an error when metrics are present in the description of the variables. Install with:
 
 ```r
 devtools::install_github("smartlab-br/sidrar")
