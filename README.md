@@ -5,8 +5,13 @@ sidrar
 
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/sidrar)](https://CRAN.R-project.org/package=sidrar) [![CRAC\_Downloads](https://cranlogs.r-pkg.org/badges/grand-total/sidrar)](https://CRAN.R-project.org/package=sidrar)
 
-
 The goal of *sidrar* is to provide direct access to the data of IBGE's (Brazilian Institute of Geography and Statistics) SIDRA API within the R environment in an easy and flexible way. SIDRA is the acronym to "Sistema IBGE de Recuperação Automática" and it is the system where IBGE makes aggregate data from their researches available.
+
+Update
+------------
+
+This repo contains an updated version of this package in relation to the CRAN version, which fixed an error when metrics are present in the description of the variables. 
+
 
 Installation
 ------------
